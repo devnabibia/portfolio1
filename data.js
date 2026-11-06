@@ -28,4 +28,4 @@ export const projects = [
 ];
 export const stamps = [["1ST", "City Buildathon", "2025", -4], ["1ST", "Campus Hackathon", "2024", 3], ["TOP 5", "Regional Challenge", "2025", -2]];
 // Put mp3 files in /public/music and list them here. Leave empty to hide the player.
-export const songs = [{ title: "Track one", src: "/music/track1.mp3" }, { title: "Track two", src: "/music/track2.mp3" }];
+export const songs = [{ title: "Mosters", src: "/music/Jacob_Banks_-_Monster_ft_Avelino(256k).mp3" }, { title: "wild for the night", src: "/music/A$AP_Rocky_-_Wild_for_the_Night__Explicit_-_Official_Video__ft._Skrillex,_Birdy_Nam_Nam(256k).mp3" }];
